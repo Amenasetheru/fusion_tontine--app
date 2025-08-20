@@ -98,7 +98,7 @@ with cols[2]:
     st.markdown(f'<div class="stMetric"><span>💸 Total Redistribué</span><br><br><span style="color:#f0ad4e; font-size:1.8rem;">${current_fusion_data["Total Redistribué ($)"]:,}</span></div>', unsafe_allow_html=True)
 
 st.markdown("""
-Le gain total généré par la Fusion 1 est de **$14,000**. Une partie est investie en crypto, et le reste est redistribué aux membres.
+Le gain total généré par la Fusion 1 est de **$14,000**. Une partie est investie en crypto(LMCSWAP), et le reste est redistribué aux membres.
 """)
 
 # --- 3. Détails des gains par membre ---
@@ -138,7 +138,7 @@ st.markdown("""
 <h3 style="color: #66cc00;">1. L'investissement unique</h3>
 <p>Vous n'investissez que 100 $ une seule fois. Le système se finance ensuite lui-même.</p>
 <h3 style="color: #66cc00;">2. Le double cumul</h3>
-<p>Le système génère non seulement des gains en argent, mais aussi un investissement cumulatif en cryptomonnaie qui grandit à chaque fusion.</p>
+<p>Le système génère non seulement des gains en argent, mais aussi un investissement cumulatif en cryptomonnaie(LMCSWAP) qui grandit à chaque fusion.</p>
 """, unsafe_allow_html=True)
 
 # Graphique de l'évolution des gains
